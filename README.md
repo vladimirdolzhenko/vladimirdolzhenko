@@ -6,7 +6,7 @@ val vladimirdolzhenko = developer {
     about {
         name = "Vladimir Dolzhenko"
         company = JetBrains
-        role = Kotlin_IDE_tech_lead
+        role = "IntelliJ Kotlin Plugin Tech lead"
     }
     links {
         twitter = "@dolzhenko"
